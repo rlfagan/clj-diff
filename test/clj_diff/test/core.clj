@@ -1,6 +1,6 @@
 (ns clj-diff.test.core
-  (:use [clj-diff.core] :reload)
-  (:use [clojure.test]))
+  (:use [clj-diff.core]
+        [clojure.test]))
 
 (deftest diff-test
   (let [t (fn [a b] (edit-distance (diff a b)))]
