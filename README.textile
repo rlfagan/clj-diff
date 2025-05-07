@@ -76,6 +76,8 @@ h2. Roadmap
 h3. Version 1.0
 
 # Text diff visualization.
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fclj-diff.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fclj-diff?ref=badge_shield)
+
 # HTML diff visualization.
 # Semantic cleanup.
 # Sequence chunking. Allow line based diff for strings.
@@ -93,3 +95,7 @@ h2. License
 Copyright (C) 2010-2011 Brenton Ashworth
 
 Distributed under the Eclipse Public License, the same as Clojure uses. See the file COPYING.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fclj-diff.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fclj-diff?ref=badge_large)
